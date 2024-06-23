@@ -1,0 +1,22 @@
+READ ME
+
+My project is a book shop system.
+Firstly,
+
+1) You can see my "Welcome page".Then you can see the "NEXT" button on it.You can go to the "Login Page" by clicking the "NEXT" button on                       the welcome page.
+
+2) After that you can Login to the system by giving "User name" and "Password".
+   ( User name = "Vinu" and Password = "1234" )
+
+3)If you forget my password you can Click on the radio button which named as "Forgot Password".Then you can go to "Forgot Password Page".After that give your user name to the text box given infront of the user name (User name = Vinu)on the forgot password page.
+
+Then click on the button Which named as "Give Your Password".Then you can get the password by a message box.Then you can back to login page by clicking the "Back to login" button.Then you can login successfully.Then you can see a Message box which named as "You have logged in succefully".Then give "ok" to the message box.After that you can go to the "Register page".
+
+4)In register page you need to give customer details and book details to the text boxes.Then click on the "Register" button.Then you can get a message which named as "You have registered successfully".You can see the registered data by my sql data table named as "USERS".(SELECT * FROM USERS;)
+
+5)After that clicking the "Clear" button.you can clear those data by the text boxes.
+And there is "DELETE" button on my register page.You can go to the "Delete page" by Clicking "DELETE" button.
+
+6)Then you need to give the Customer's name that you want to delete from my sql table.You have to give the correct name of the customer by viewing the sql data table.Then click on "DELETE" button and view the sql table.(SELECT * FROM USERS;).
+
+7)After that if you want to back to the register page click on "Back" button'.
